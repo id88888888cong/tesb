@@ -1,0 +1,9 @@
+[ 2017-03-18T21:24:07+08:00 ] 127.0.0.1 /index.php?m=Home&c=Channel&a=index&id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-18T21:25:00+08:00 ] 127.0.0.1 /index.php?m=Home&c=Channel&a=index&id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2017-03-18T21:25:07+08:00 ] 127.0.0.1 /index.php?m=Home&c=Channel&a=index&id=1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
